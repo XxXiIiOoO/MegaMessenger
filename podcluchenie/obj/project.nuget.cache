@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c35QukpODXWf+NDU8BIxEJjpymmSSmV9YIa7M+SJrImVEyUNESbAzl/MkxyPt8txmKdO95dLtt7e6o6jBtpsDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xacha\\OneDrive\\Рабочий стол\\MessengerTest-client\\podcluchenie\\podcluchenie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xacha\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
